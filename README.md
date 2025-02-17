@@ -61,5 +61,5 @@ python src/predict.py
 ---
 📌 **Author**: Shahid Rasheed  
 📧 **Contact**: shahidr54gb@gmail.com  
-🔗 **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+🔗 **GitHub**: [Shahid Rasheed](https://github.com/shahidr-ds)
 
